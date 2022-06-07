@@ -1,0 +1,17 @@
+
+
+
+.user-card {
+   width: 100%;
+   max-width: 900px;
+   border: 1px solid #000;
+   margin: 20px auto;
+   padding: 10px;
+
+   .navigation {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 15px;
+   }
+}
+

@@ -1,0 +1,17 @@
+.category {
+  border: 1px solid #000;
+
+  .header {
+    background-color: #888888;
+    padding: 10px;
+  }
+
+  .body {
+
+    &.opened {
+      padding: 10px;
+    }
+
+    
+  }
+}
